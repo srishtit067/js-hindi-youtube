@@ -10,3 +10,12 @@ let someNumber = 77
 let someOther = String(someNumber)
 console.log(someOther)
 console.log(typeof someOther)
+
+//OPERATIONS DONE
+let str1 = "hello"
+let str2 = " its me"
+let str3 = str1 + str2
+console.log(str3);
+
+//type conversion 
+// postfix and prefix and some examples
