@@ -1,0 +1,12 @@
+// "33" >= 33
+//"33abc" >= NaN
+// true >= 1; false >= 0
+let isLoggedIn = 1
+
+let booleanIsLoggedIn = Boolean(isLoggedIn)
+console.log(booleanIsLoggedIn)
+// "srish" >= true ; "" >= false
+let someNumber = 77
+let someOther = String(someNumber)
+console.log(someOther)
+console.log(typeof someOther)
